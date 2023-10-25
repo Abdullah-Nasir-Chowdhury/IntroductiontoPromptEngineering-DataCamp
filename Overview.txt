@@ -1,0 +1,22 @@
+Chapter 1:
+- Key principles of prompt engineering
+- Delimited prompts
+- Structured outputs
+- Conditional prompts
+
+Chapter 2:
+- Few-shot prompting
+- Multi-step prompting
+- Chain-of-thought and self-consistency
+- Iterative prompt engineering
+
+Chapter 3:
+- Text Summarization
+- Text transformation
+- Text Analysis
+- Code Generation
+
+Chapter 4:
+- System prompt engineering for chatbots
+- Role-playing prompts
+- External context
